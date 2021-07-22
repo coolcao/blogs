@@ -1,0 +1,98 @@
+{
+    "created_time": "2021-03-26T01:28:29Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s00-introduction-md.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s01-list.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s02-stack.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s03-queue.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s04-linked-list.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s05-set.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s06-dictionary.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s07-bst.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "dsa-js-s08-graph.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

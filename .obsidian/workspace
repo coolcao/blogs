@@ -1,0 +1,125 @@
+{
+  "main": {
+    "id": "ca1e44c35c5107e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e198f0701dc42e26",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f75272fd68f9f9a",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d1bf48b11fcd47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cea1c19181ef1179",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "39df9dd25224cb8f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "df43ed43bc7e618b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 336.5
+  },
+  "right": {
+    "id": "41a45955143ac294",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdcf34084f438d8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3302f68f15743b4d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "12f2cf63f84028ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "aa5c9733cb06878d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "e198f0701dc42e26",
+  "lastOpenFiles": [
+    "resources/math.svg",
+    "README.md",
+    "数据库/mysql/高性能mysql笔记/7.mysql高级特性.md",
+    "数据库/mysql/高性能mysql笔记/4.schema与数据类型优化.md",
+    "数据库/mysql/高性能mysql笔记/6.查询性能优化.md",
+    "resources/数据库/mysql/mysql逻辑架构图.svg",
+    "resources/数据库/mysql/mysql查询执行路径.svg",
+    "数据库/mysql/高性能mysql笔记/5.创建高性能索引.md",
+    "数据库/mysql/高性能mysql笔记/1.mysql架构与历史.md",
+    "Pasted image 20210331092002.png"
+  ]
+}

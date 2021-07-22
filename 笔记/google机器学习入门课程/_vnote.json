@@ -1,0 +1,128 @@
+{
+    "created_time": "2021-03-26T01:28:29Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "1.机器学习术语.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "10.分组.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "2.降低损失.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "3.泛化.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "4.训练集和测试集.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "5.验证.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "6.表示法.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "7.特征组合.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "8.正则化：简单性.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "9.逻辑回归.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "README.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "SUMMARY.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

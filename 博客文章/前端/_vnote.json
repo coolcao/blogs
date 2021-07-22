@@ -1,0 +1,27 @@
+{
+    "created_time": "2021-07-22T14:42:52Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2021-03-26T01:28:29Z",
+            "modified_time": "2021-03-26T01:28:29Z",
+            "name": "gulp顺序执行任务.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+        {
+            "name": "css"
+        },
+        {
+            "name": "angular"
+        },
+        {
+            "name": "JavaScript"
+        }
+    ],
+    "version": "1"
+}
