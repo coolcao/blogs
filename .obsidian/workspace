@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e198f0701dc42e26",
+        "id": "d3595eb1d2659f72",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -109,8 +109,10 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "e198f0701dc42e26",
+  "active": "d3595eb1d2659f72",
   "lastOpenFiles": [
+    "笔记/数据结构与算法js实现/dsa-js-s02-stack.md",
+    "笔记/数据结构与算法js实现/dsa-js-s01-list.md",
     "resources/math.svg",
     "README.md",
     "数据库/mysql/高性能mysql笔记/7.mysql高级特性.md",
@@ -118,8 +120,6 @@
     "数据库/mysql/高性能mysql笔记/6.查询性能优化.md",
     "resources/数据库/mysql/mysql逻辑架构图.svg",
     "resources/数据库/mysql/mysql查询执行路径.svg",
-    "数据库/mysql/高性能mysql笔记/5.创建高性能索引.md",
-    "数据库/mysql/高性能mysql笔记/1.mysql架构与历史.md",
-    "Pasted image 20210331092002.png"
+    "数据库/mysql/高性能mysql笔记/5.创建高性能索引.md"
   ]
 }
