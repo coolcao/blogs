@@ -1,0 +1,78 @@
+{
+    "created_time": "2020-06-28T23:57:01Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-28T23:57:37Z",
+            "modified_time": "2020-06-29T00:31:55Z",
+            "name": "第2章.简单动态字符串.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-30T00:12:04Z",
+            "modified_time": "2020-06-30T00:49:05Z",
+            "name": "第3章.链表.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-30T00:30:16Z",
+            "modified_time": "2020-06-30T00:49:09Z",
+            "name": "第4章.字典.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-07-01T00:43:28Z",
+            "modified_time": "2020-07-01T00:59:00Z",
+            "name": "第5章.跳跃表.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-07-01T00:59:21Z",
+            "modified_time": "2020-07-01T01:15:32Z",
+            "name": "第6章.整数集合.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-07-01T01:16:11Z",
+            "modified_time": "2020-07-02T00:35:05Z",
+            "name": "第7章.压缩列表.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-07-02T00:53:37Z",
+            "modified_time": "2020-07-02T13:39:20Z",
+            "name": "第8章.对象.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}
