@@ -20,6 +20,9 @@
         },
         {
             "name": "nodejs_at_scale"
+        },
+        {
+            "name": "垃圾回收的算法与实现"
         }
     ],
     "version": "1"
