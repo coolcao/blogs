@@ -26,6 +26,9 @@
         },
         {
             "name": "Redis设计与实现"
+        },
+        {
+            "name": "深入理解Java虚拟机"
         }
     ],
     "version": "1"
