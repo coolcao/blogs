@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3595eb1d2659f72",
+        "id": "84d181691bc243e3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "博客文章/前端/HTTP keep-alive.md",
+            "mode": "preview",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "博客文章/前端/HTTP keep-alive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,21 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "博客文章/前端/HTTP keep-alive.md"
+              }
+            }
+          },
+          {
+            "id": "6f7c72d35b19e4e0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "博客文章/前端/HTTP keep-alive.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
             }
           }
         ],
@@ -109,12 +128,12 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "d3595eb1d2659f72",
+  "active": "84d181691bc243e3",
   "lastOpenFiles": [
+    "README.md",
     "笔记/数据结构与算法js实现/dsa-js-s02-stack.md",
     "笔记/数据结构与算法js实现/dsa-js-s01-list.md",
     "resources/math.svg",
-    "README.md",
     "数据库/mysql/高性能mysql笔记/7.mysql高级特性.md",
     "数据库/mysql/高性能mysql笔记/4.schema与数据类型优化.md",
     "数据库/mysql/高性能mysql笔记/6.查询性能优化.md",

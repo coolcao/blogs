@@ -1,4 +1,5 @@
 {
+  "obsidianCss": true,
   "enabledPlugins": [],
   "pdfExportSettings": {
     "pageSize": "Letter",
