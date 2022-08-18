@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "84d181691bc243e3",
+        "id": "eedfa79de110c86e",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "博客文章/前端/HTTP keep-alive.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "博客文章/前端/HTTP keep-alive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "博客文章/前端/HTTP keep-alive.md"
-              }
+              "state": {}
             }
           },
           {
@@ -115,7 +108,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "博客文章/前端/HTTP keep-alive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,17 +120,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "84d181691bc243e3",
+  "active": "eedfa79de110c86e",
   "lastOpenFiles": [
+    "笔记/图解TCP-IP/6.TCP和UDP.md",
+    "博客文章/前端/Web前端实现复制到剪切板.md",
+    "博客文章/前端/HTTP keep-alive.md",
     "README.md",
+    "博客文章/前端/gulp顺序执行任务.md",
     "笔记/数据结构与算法js实现/dsa-js-s02-stack.md",
     "笔记/数据结构与算法js实现/dsa-js-s01-list.md",
     "resources/math.svg",
     "数据库/mysql/高性能mysql笔记/7.mysql高级特性.md",
-    "数据库/mysql/高性能mysql笔记/4.schema与数据类型优化.md",
-    "数据库/mysql/高性能mysql笔记/6.查询性能优化.md",
-    "resources/数据库/mysql/mysql逻辑架构图.svg",
-    "resources/数据库/mysql/mysql查询执行路径.svg",
-    "数据库/mysql/高性能mysql笔记/5.创建高性能索引.md"
+    "数据库/mysql/高性能mysql笔记/4.schema与数据类型优化.md"
   ]
 }
